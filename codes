@@ -1,13 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440"
-
- billed-msg="ID ORIGINAL DI SHOPEE ZAYANZACK - SHOPEE LAIN ID BANNED"
-
-#EXTINF:-1 group-title="BELI ORIGINAL DI ZAYANZACK" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ❌ ZAYANZACK STORE BUKAN ❌❌ TENGOK VIDEO 👇🏻
-https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
-
-#EXTINF:-1 group-title="ID BANNED JIKA TAK BELI DI ZAYANZACK" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", BUY DI SHOPEE ZAYANZACK SAHAJA ( TENGOK VIDEO )
-https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
-
 ###############################OLIMPIK 2024############################
 
 #EXTINF:-1 tvg-id="Saluran1"  group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp" group-title="PARALYMPIC PARIS",RTM OLY1
@@ -11696,3 +11686,4 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548
 
 
 Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EbGpZekE0TkRrdFpETmxNeTAwTkRKakxUbGlNVEV0TVRsaE4ySmtPRGRsWW1RdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDQxNTMzOCwiaWF0IjoxNzIzODExMzM4fQ.h5qTrPYhe5cVxCav9_u2F_Cz6HpFuYa1tkrbXExliEU
+
